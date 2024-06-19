@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Lucas 😁
 
  <div>
    <a href="https://github.com/Lucas-Lacerda10
@@ -17,7 +17,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Me siga nas redes abaixo!
  
 <div>
   <a href="https://www.youtube.com/Lucas-Lacerda10
